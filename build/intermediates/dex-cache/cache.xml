@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\Diary1212\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="G:\Diary1212\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.0_5811f729e1fa090f4dcea725ffb361f3ca3b95de\classes.dex" />
+    </item>
+    <item
+        jar="G:\Diary1212\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="G:\Diary1212\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.0_3034e713bd6d6b92fcca78fccdf3f8a9e95d4685\classes.dex" />
+    </item>
+    <item
+        jar="G:\Diary1212\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="G:\Diary1212\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.0_775af002d3dc3053e243f292e08a1d4096022729\classes.dex" />
+    </item>
+    <item
+        jar="G:\Diary1212\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="G:\Diary1212\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.2.0_6ed53bbd730e9e2c0cb0e567a1035ce46e71831e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\hayrow\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="G:\Diary1212\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.0_0f7fad9111cfb2a12fe1d5f0a9189f8ad576062a\classes.dex" />
+    </item>
+    <item
+        jar="G:\Diary1212\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0fa76ca31a9cb9268f729c5cdc565898eae5e214">
+        <dex dex="G:\Diary1212\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_671f967ed4ce5fcc526c43de7bc73ce776cbfe0b\classes.dex" />
+    </item>
+    <item
+        jar="G:\Diary1212\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="G:\Diary1212\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.0.1_40c87cb5085759c4d9430a15685da43cd0cbce27\classes.dex" />
+    </item>
+    <item
+        jar="G:\Diary1212\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="G:\Diary1212\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.0_b6643adabb9a6425e384d1e17b6e8040404cdf32\classes.dex" />
+    </item>
+    <item
+        jar="G:\Diary1212\app\build\intermediates\exploded-aar\com.github.stankoutils\app\1.3.10\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d5bc5903906300dd650f6856cb2d851c270e2f70">
+        <dex dex="G:\Diary1212\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.stankoutils-app-1.3.10_817321049f3b2a94ae1368b0b2f330f521f2a0f3\classes.dex" />
+    </item>
+    <item
+        jar="G:\Diary1212\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="G:\Diary1212\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.0_71a262ec169b3cab23e6491f4665beb1175b9469\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\hayrow\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.8.1\1eb6690b0c629d7000c77a72df5e822fb974f521\jsoup-1.8.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1eb6690b0c629d7000c77a72df5e822fb974f521">
+        <dex dex="G:\Diary1212\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsoup-1.8.1_3ff854a61431bf54d81b409bcd1dce1aa65ce704\classes.dex" />
+    </item>
+    <item
+        jar="G:\Diary1212\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="G:\Diary1212\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.0_0b74ebae136a883899c1f7337eeef04aa996a958\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\hayrow\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="G:\Diary1212\app\build\intermediates\transforms\dex\debug\folders\1000\10\eventbus-3.0.0_27690862831242bf3a5baa32e14b7306b59c78ad\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\hayrow\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="G:\Diary1212\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_842d0f5bc95d8ec9214700189c1a300fc462e0c3\classes.dex" />
+    </item>
+    <item
+        jar="G:\Diary1212\app\build\intermediates\exploded-aar\com.github.devlight.navigationtabstrip\navigationtabstrip\1.0.4\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6ee92f191bc56ff6479ca27a042e8b8d28b7c809">
+        <dex dex="G:\Diary1212\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.devlight.navigationtabstrip-navigationtabstrip-1.0.4_9ef01873700fd0c4d37770c5cd9827973b645fe6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\hayrow\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="G:\Diary1212\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_ef1981d5f2b6c833660a358185dfff5984839aa8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\hayrow\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations-java5\15.0\7011b4551a8451906759b05814c58b9eb829ea9b\annotations-java5-15.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7011b4551a8451906759b05814c58b9eb829ea9b">
+        <dex dex="G:\Diary1212\app\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-java5-15.0_8f8dc4fdc9566b0a3c5f3952cb7047cc3b37e155\classes.dex" />
+    </item>
+    <item
+        jar="G:\Diary1212\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2949e71bdb1ca11997f431e0839b0fcad4d711f3">
+        <dex dex="G:\Diary1212\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_78fc4b74acf5a75104744bcb67791688d8912b38\classes.dex" />
+    </item>
+
+</items>

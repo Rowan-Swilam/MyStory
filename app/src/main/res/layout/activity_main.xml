@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F1F8E9"
+    android:clipChildren="false"
+    android:clipToPadding="false"
+    android:gravity="center"
+
+    tools:context=".screens.MainActivity"
+    >
+
+    <ImageView
+
+        android:layout_width="300dp"
+        android:layout_height="56dp"
+        android:id="@+id/img"
+        android:layout_marginTop="10dp"
+        android:adjustViewBounds="true"
+        android:padding="4dp"
+        android:src="@drawable/mystory"
+        />
+
+    <Button
+        android:id="@+id/show"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:background="@drawable/dotted"
+        android:layout_marginTop="17dp"
+        android:layout_marginRight="10dp"
+        android:layout_alignParentRight="true"
+        android:onClick="popUp"
+        />
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_below="@id/img"
+        android:id="@+id/vw"
+        android:background="@drawable/overlay_top"
+        android:cacheColorHint="#00000000"/>
+
+
+
+    <FrameLayout
+        android:id="@+id/frame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bg_main"
+        android:layout_below="@id/vw">
+
+        <com.gigamole.sample.utils.NonScrollableViewPager
+            android:id="@+id/vp_main"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+
+
+    </FrameLayout>
+
+    <Button
+        android:gravity="center_vertical|center_horizontal"
+        android:layout_margin="20dp"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:foregroundGravity="center_horizontal"
+        android:background="@drawable/round_button"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:text="+"
+        android:paddingBottom="5dp"
+        android:onClick="openAddActivity"
+        android:textSize="35sp"
+        android:textColor="#000000"
+        android:id="@+id/popUpButton"
+        />
+
+
+
+
+
+</RelativeLayout>
