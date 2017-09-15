@@ -28,11 +28,11 @@
         android:id="@+id/show"
         android:layout_width="35dp"
         android:layout_height="35dp"
-        android:background="@drawable/dotted"
+        android:background="@drawable/about"
         android:layout_marginTop="17dp"
         android:layout_marginRight="10dp"
         android:layout_alignParentRight="true"
-        android:onClick="popUp"
+        android:onClick="openAboutActivity"
         />
 
 

@@ -47,26 +47,11 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    public void popUp(View view) {
-        Button but = (Button) findViewById(R.id.popUpButton);
-        PopupMenu popup = new PopupMenu(MainActivity.this, but);
-        //Inflating the Popup using xml file
-        popup.getMenuInflater()
-                .inflate(R.menu.menu_card, popup.getMenu());
+    public void openAboutActivity (View view) {
+        Intent intent = new Intent(this,AboutActivity.class);
+        startActivity(intent);
 
-        //registering popup with OnMenuItemClickListener
-        popup.setOnMenuItemClickListener(new PopupMenu.OnMenuItemClickListener() {
-            public boolean onMenuItemClick(MenuItem item) {
-                Toast.makeText(
-                        MainActivity.this,
-                        "You Clicked : " + item.getTitle(),
-                        Toast.LENGTH_SHORT
-                ).show();
-                return true;
-            }
-        });
 
-        popup.show();
     }
 
     @Override
